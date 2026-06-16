@@ -73,7 +73,7 @@ This project analyzes a real-world bank marketing campaign dataset to understand
 ---
 
 ## 📁 Repository Structure
-FUTURE_DS_03/
+bank-marketing-funnel-analysis/
 ├── dataset/          # Bank Marketing Campaign dataset
 ├── dashboard/        # Power BI .pbix file
 ├── exports/          # PDF export of dashboard
